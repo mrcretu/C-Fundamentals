@@ -1,0 +1,7 @@
+c:\users\mcretu\documents\visual studio 2017\Projects\Task2_Fundamentals\Task2_Fundamentals\bin\Debug\Task2_Fundamentals.exe.config
+c:\users\mcretu\documents\visual studio 2017\Projects\Task2_Fundamentals\Task2_Fundamentals\bin\Debug\Task2_Fundamentals.exe
+c:\users\mcretu\documents\visual studio 2017\Projects\Task2_Fundamentals\Task2_Fundamentals\bin\Debug\Task2_Fundamentals.pdb
+c:\users\mcretu\documents\visual studio 2017\Projects\Task2_Fundamentals\Task2_Fundamentals\obj\Debug\Task2_Fundamentals.csprojAssemblyReference.cache
+c:\users\mcretu\documents\visual studio 2017\Projects\Task2_Fundamentals\Task2_Fundamentals\obj\Debug\Task2_Fundamentals.csproj.CoreCompileInputs.cache
+c:\users\mcretu\documents\visual studio 2017\Projects\Task2_Fundamentals\Task2_Fundamentals\obj\Debug\Task2_Fundamentals.exe
+c:\users\mcretu\documents\visual studio 2017\Projects\Task2_Fundamentals\Task2_Fundamentals\obj\Debug\Task2_Fundamentals.pdb
